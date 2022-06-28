@@ -1,4 +1,4 @@
-package AdapterPatternAndFacadePattern;
+package AdapterPattern.Turkey;
 
 /**
  * @projectName: Java_DesignPattern

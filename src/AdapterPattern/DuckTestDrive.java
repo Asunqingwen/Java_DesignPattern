@@ -1,4 +1,9 @@
-package AdapterPatternAndFacadePattern;
+package AdapterPattern;
+
+import AdapterPattern.Adapter.TurkeyAdapter;
+import AdapterPattern.Duck.Duck;
+import AdapterPattern.Duck.MallardDuck;
+import AdapterPattern.Turkey.WildTurkey;
 
 /**
  * @projectName: Java_DesignPattern

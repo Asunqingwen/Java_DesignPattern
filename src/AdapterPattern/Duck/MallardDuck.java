@@ -1,4 +1,6 @@
-package AdapterPatternAndFacadePattern;
+package AdapterPattern.Duck;
+
+import AdapterPattern.Duck.Duck;
 
 /**
  * @projectName: Java_DesignPattern
@@ -6,7 +8,7 @@ package AdapterPatternAndFacadePattern;
  * @author: 小新
  * @date: 2022-06-24 14:42
  **/
-public class MallardDuck implements Duck{
+public class MallardDuck implements Duck {
 
     @Override
     public void quack() {

@@ -1,1 +1,1 @@
-I know the Decorator AdapterPatternAndFacadePattern therefore I RULE
+I know the Decorator AdapterPattern therefore I RULE

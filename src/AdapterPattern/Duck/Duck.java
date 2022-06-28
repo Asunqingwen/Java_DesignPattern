@@ -1,4 +1,4 @@
-package AdapterPatternAndFacadePattern;
+package AdapterPattern.Duck;
 
 /**
  * @projectName: Java_DesignPattern
