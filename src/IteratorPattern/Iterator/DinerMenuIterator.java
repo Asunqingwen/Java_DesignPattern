@@ -38,7 +38,7 @@ public class DinerMenuIterator implements Iterator {
         }
         if (items[position - 1] != null) {
             if (items.length - 1 - position - 1 >= 0) {
-                System.arraycopy(items, position - 1 + 1, items, position - 1, items.length - 1 - position - 1);
+                System.arraycopy(items, position, items, position - 1, items.length - 1 - position - 1);
             }
             items[items.length - 1] = null;
         }
